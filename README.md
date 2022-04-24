@@ -18,7 +18,7 @@ Use any browser plugin that can inject CSS (eg. [Amino](https://chrome.google.co
 */
 
 /* Main CSS */
-@import "https://raw.githubusercontent.com/Stapxs/Twitter-Fluent-Theme/main/src/theme.css";
+@import "https://stapxs.github.io/Twitter-Fluent-Theme/src/theme.css";
 
 /* Options */
 :root {
