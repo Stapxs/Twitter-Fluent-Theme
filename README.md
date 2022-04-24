@@ -1,6 +1,9 @@
 # Twitter-Fluent-Theme
 一个适用于推特网页的 CSS 替换主题。/ A css theme for Twitter Web.
 
+![View](View.png)
+
+
 # 注意 / Noitce
 这是个早期版本，仍有许多样式未被兼容。
 
