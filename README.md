@@ -10,9 +10,9 @@
 This is an early version and there are still many styles that are not compatible.
 
 # 使用 / Usage
-使用任意一个可以用来注入 CSS 的浏览器插件（比如：[Amino](https://chrome.google.com/webstore/detail/pbcpfbcibpcbfbmddogfhcijfpboeaaf)），并使用如下 CSS：
+使用任意一个可以用来注入 CSS 的浏览器插件（[比如](https://chrome.google.com/webstore/detail/custom-cssjs-injector-on/gamgadbdliolbhjdcfjjpjfjhgfnckbp)），并使用如下 CSS：
 
-Use any browser plugin that can inject CSS (eg. [Amino](https://chrome.google.com/webstore/detail/pbcpfbcibpcbfbmddogfhcijfpboeaaf)) and use the following CSS:
+Use any browser plugin that can inject CSS ([eg](https://chrome.google.com/webstore/detail/custom-cssjs-injector-on/gamgadbdliolbhjdcfjjpjfjhgfnckbp)) and use the following CSS:
 ~~~
 /**
  * @name Twitter Fluent Theme
